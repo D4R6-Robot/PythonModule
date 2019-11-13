@@ -35,12 +35,17 @@ class jsonParsingMain():
     """
 
     def __init__(self): 
-        path = './1424405_apistats.json' 
-        save_path = './1424405_apistats_report_2.txt' 
+        path = './1424407_apistats.json' 
+        save_path = './1424407_apistats_report' 
         self.parsingMain = jsonParsing.jsonParsing(path, save_path) 
  
     def main(self): 
+        self.parsingMain.parsing("all") 
         self.parsingMain.parsing("file") 
+        self.parsingMain.parsing("process") 
+        self.parsingMain.parsing("system") 
+        self.parsingMain.parsing("ole") 
+        self.parsingMain.parsing("synchronisation") 
  
 if __name__ == '__main__': 
     main_class = jsonParsingMain() 
