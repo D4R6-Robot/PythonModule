@@ -50,7 +50,7 @@ class jsonParsing():
         :return: 추출한 값을 문자열로 리턴
         """
 
-        behavior_file =  "%-15s%s%s%s" % ("category", ": [" , c['category'] , "])\n")
+        behavior_file =  "%-15s%s%s%s" % ("category", ": [" , c['category'] , "]\n")
         behavior_file += "%-15s%s%s%s" % ("api", ": [" , c['api'] , "]\n")
         behavior_file += "%-15s%s%s%s" % ("filepath", ": [" , c['arguments']['filepath'] , "]\n")
 
@@ -120,7 +120,7 @@ class jsonParsing():
         :param str category: 추출 category 의 키워드
         """
 
-        save_file = open(self.save_path, 'a', -1, "utf-8") 
+        save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8") 
 
         with open(self.path) as json_file: 
             json_data = json.load(json_file) 
