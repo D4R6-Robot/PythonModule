@@ -204,7 +204,7 @@ class jsonParsing():
         
         :param str category: 추출 category 의 키워드
         """
-        
+        cuckoo_string = ""
         with open(self.path) as json_file: 
             json_data = json.load(json_file) 
             print(json_data['process_path']) 
@@ -212,33 +212,30 @@ class jsonParsing():
             for c in json_data['calls']:
 
                 if ((category == "all" or category == "file") and c['category'] == "file"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_file(c))
+                    cuckoo_string += self.category_file(c)
 
                 elif ((category == "all" or category == "process") and c['category'] == "process"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_process(c))
+                    cuckoo_string += self.category_process(c)
 
                 elif ((category == "all" or category == "system") and c['category'] == "system"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_system(c))
+                    cuckoo_string += self.category_system(c)
 
                 elif ((category == "all" or category == "ole") and c['category'] == "ole"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_ole(c))
+                    cuckoo_string += self.category_ole(c)
 
                 elif ((category == "all" or category == "synchronisation") and c['category'] == 'synchronisation'):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_synchronisation(c))
+                    cuckoo_string += self.category_synchronisation(c)
             
                 elif ((category == "all" or category == "registry") and c['category'] == "registry"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_registry(c))
+                    cuckoo_string += self.category_registry(c)
 
                 elif ((category == "all" or category == "misc") and c['category'] == "misc"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_misc(c))
+                    cuckoo_string += self.category_misc(c)
 
                 elif ((category == "all" or category == "ui") and c['category'] == "ui"):
-                    save_file = open(self.save_path+"_"+category+".txt", 'a', -1, "utf-8")
-                    save_file.write(self.category_ui(c))
+                    cuckoo_string += self.category_ui(c)
+            
+        if len(cuckoo_string) > 0:
+            save_file = open(self.save_path + category + ".txt", 'a', -1, "utf-8")
+            save_file.write(cuckoo_string)
+            save_file.close()
