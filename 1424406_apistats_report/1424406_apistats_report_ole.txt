@@ -1,0 +1,944 @@
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IDelegateFolder", "clsid": "REG_DWORD"}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"clsid": "Task_Bar_Communication"}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IClassFactory2"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IUnknown"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IParseDisplayName", "clsid": "winmgmts"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IParseDisplayName", "clsid": "winmgmts"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IWbemLocator", "clsid": "CLSID_WbemLocator"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstanceEx]
+flag           : [{"iid": ["IWbemLevel1Login"], "clsid": "CLSID_WMI"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IID_IPSFactoryBuffer"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IID_IPSFactoryBuffer"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IMarshal", "clsid": "IWbemClassObject"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IParseDisplayName", "clsid": "winmgmts"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IParseDisplayName", "clsid": "winmgmts"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IWbemLocator", "clsid": "CLSID_WbemLocator"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWbemPath"}]
+
+category       : [ole]
+api            : [CoCreateInstanceEx]
+flag           : [{"iid": ["IWbemLevel1Login"], "clsid": "CLSID_WMI"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IID_IPSFactoryBuffer"}]
+
+category       : [ole]
+api            : [CoGetClassObject]
+flag           : [{"iid": "IID_IPSFactoryBuffer"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IMarshal", "clsid": "IWbemClassObject"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IID_IMarshal", "clsid": "IWbemClassObject"}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"iid": "IWiaDevMgr", "clsid": "StiSvc"}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{"clsid": "Task_Bar_Communication"}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [OleInitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoInitializeEx]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoUninitialize]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+
+category       : [ole]
+api            : [CoCreateInstance]
+flag           : [{}]
+

@@ -1,0 +1,119 @@
+category       : [ui]
+api            : [LoadStringW]
+string         : [Windows Script Host]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Insufficient memory]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Calendar]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Communication]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Contact]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Document]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [E-mail]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Feed]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Folder]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Game]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Instant Message]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Journal]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Link]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Movie]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Music]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Note]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Picture]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Program]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Recorded TV]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Saved Search]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Task]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Video]
+flag           : [{}]
+
+category       : [ui]
+api            : [LoadStringW]
+string         : [Web History]
+flag           : [{}]
+
+category       : [ui]
+api            : [GetForegroundWindow]
+flag           : [{}]
+

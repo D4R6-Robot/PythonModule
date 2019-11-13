@@ -1,0 +1,2404 @@
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002720000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002722000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002726000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000002ee000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005d10000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005d12000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002600000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002600000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT|MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002700000]
+flags          : [{"protection": "PAGE_NOACCESS", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002700000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000002f3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000000306000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000052b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000617d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000617f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006180000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006185000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005cc0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006120000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006130000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006330000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006340000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006342000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006347000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000634c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006351000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006480000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006520000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtResumeThread]
+flags          : [{}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000031b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtResumeThread]
+flags          : [{}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000063c0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000063d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000063f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000063e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006480000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006490000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005bc6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005bd9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005bf1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005bf2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005bf3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c07000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c08000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c09000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c0a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c0b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c10000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c12000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c14000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c15000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c16000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c17000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c19000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c1a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c1c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c1d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c1e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c20000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c21000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c22000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c23000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c24000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c25000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c26000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c27000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c29000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c2a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c2b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c3f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c40000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c42000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c44000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c5a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c5b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c5d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c5f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c60000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c62000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c64000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c65000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c67000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c68000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c69000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005c6b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007902000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007903000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007904000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007905000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007906000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007918000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007919000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007af0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ce0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ce2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007af0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007af0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ce6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000796f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cf0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006860000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cf0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cf0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006864000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006868000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000686c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004940000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ce8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000064b0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000064c0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006500000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006510000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006530000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006540000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006550000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006560000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006780000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000065f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006780000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007990000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007994000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007996000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007997000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007998000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000799b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ac000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ae000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079b0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079bc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079cc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079cd000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ce000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079d8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079dc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079dd000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079de000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079df000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079e4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079e5000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079e7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079e9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079eb000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ec000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ed000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079ef000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079f9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079fa000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079fb000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079fc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079fd000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000079fe000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a00000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a01000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a02000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a03000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a04000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a06000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a07000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a08000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a09000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a0b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a0c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a0d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a0e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a0f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a10000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a36000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a3a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a3f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a41000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a43000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a44000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a45000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a46000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a47000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a48000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a49000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a4b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a4c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a4e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a50000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a51000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a52000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a53000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a57000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a58000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a59000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a5e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a60000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a61000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a63000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cf0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a64000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a67000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a78000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000067d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a7b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000068e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006a30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a7e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a81000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a84000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ce9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cea000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ceb000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007c80000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007c90000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007cd0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007c90000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a87000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a8c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a8d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a96000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a98000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a99000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a9a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a9b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007a9c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aa9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aad000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aaf000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ab3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007abb000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007abc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007abe000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007abf000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ac1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ac2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ac4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ac6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ace000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ade000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ae2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009120000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009120000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007ae6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007aea000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009141000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a70000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a71000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtResumeThread]
+flags          : [{}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b28000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021ef000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002590000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025a0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b2a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000024dc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000025e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b2c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f5000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b2e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b2f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b30000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b32000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003402000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003403000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003406000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003407000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000340a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000340d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003411000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003448000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004640000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009144000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009146000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000914b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000914d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009151000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009153000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009155000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009157000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009158000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009159000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000915d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009162000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009166000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009168000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009169000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000916a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000916b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000916d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000916e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000916f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009171000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009173000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009174000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009176000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009177000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009178000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009179000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000917e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009180000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009182000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004890000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009183000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009187000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048a0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a70000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a71000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a71000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a72000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a72000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000a880000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009188000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048b0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009189000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048c0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000918b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000048f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009191000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004900000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004910000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000004920000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009110000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009520000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009540000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009550000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009560000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009570000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a73000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a73000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x0000000007a73000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009580000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009590000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095a0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009194000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095b0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918c000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918c000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918c000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095c0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918c000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009199000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000919a000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095d0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000095f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009600000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009610000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009620000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000007b33000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000919b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000919d000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000919f000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000344b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009630000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009740000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtProtectVirtualMemory]
+base_address   : [0x000000000918d000]
+flags          : [{"protection": "PAGE_EXECUTE_READWRITE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000091a2000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000091a7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009750000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009760000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000009770000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000aca0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000091af000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [CreateProcessInternalW]
+flags          : [{"creation_flags": "CREATE_DEFAULT_ERROR_MODE|CREATE_NEW_CONSOLE|CREATE_UNICODE_ENVIRONMENT|EXTENDED_STARTUPINFO_PRESENT"}]
+
+category       : [process]
+api            : [ShellExecuteExW]
+flags          : [{}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000091d3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000091f3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000005d16000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000000c9000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000ade0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003380000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b100000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b100000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000ae20000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000636b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000638c000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006394000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000af90000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000afa0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtResumeThread]
+flags          : [{}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003398000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002100000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003c8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003ca000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003cc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003ce000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002370000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT|MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003cf000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003d3000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003d4000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003d6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003d7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003d8000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003da000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003dc000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003dd000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000003de000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b9e0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT|MEM_RESERVE"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000006528000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b10b000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b111000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000b118000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002110000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002140000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000023f0000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002400000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f6000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002410000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x000000000344e000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003450000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000003453000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002420000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000020a1000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x0000000002440000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
+category       : [process]
+api            : [NtAllocateVirtualMemory]
+base_address   : [0x00000000021f7000]
+flags          : [{"protection": "PAGE_READWRITE", "allocation_type": "MEM_COMMIT"}]
+
