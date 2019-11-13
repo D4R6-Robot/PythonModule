@@ -35,8 +35,8 @@ class jsonParsingMain():
     """
 
     def __init__(self): 
-        path = './1424407_apistats.json' 
-        save_path = './1424407_apistats_report' 
+        path = './1424409_apistats_ps1.json' 
+        save_path = './1424409_apistats_ps1_report' 
         self.parsingMain = jsonParsing.jsonParsing(path, save_path) 
  
     def main(self): 
@@ -45,7 +45,10 @@ class jsonParsingMain():
         self.parsingMain.parsing("process") 
         self.parsingMain.parsing("system") 
         self.parsingMain.parsing("ole") 
-        self.parsingMain.parsing("synchronisation") 
+        self.parsingMain.parsing("synchronisation")
+        self.parsingMain.parsing("registry")
+        self.parsingMain.parsing("misc")
+        self.parsingMain.parsing("ui")
  
 if __name__ == '__main__': 
     main_class = jsonParsingMain() 
