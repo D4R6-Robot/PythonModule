@@ -1,4 +1,4 @@
-import jsonParsing 
+import ReportParsing 
  
 """
 ========================================================
@@ -28,16 +28,16 @@ Cuckoo-report Json Parsing Module
 
 """
 
-class jsonParsingMain(): 
+class ReportParsingMain(): 
     """Json Parsing Main 테스트 클래스
 
     :param none
     """
 
     def __init__(self): 
-        path = './1424409_apistats_ps3.json' 
-        save_path = './1424409_apistats_report/ps3/'
-        self.parsingMain = jsonParsing.jsonParsing(path, save_path) 
+        path = './Json/1424409_apistats_ps3.json' 
+        save_path = './Parsing/1424409_apistats_report/ps3/'
+        self.parsingMain = ReportParsing.ReportParsing(path, save_path) 
  
     def main(self): 
         self.parsingMain.parsing("all") 
@@ -51,5 +51,5 @@ class jsonParsingMain():
         self.parsingMain.parsing("ui")
  
 if __name__ == '__main__': 
-    main_class = jsonParsingMain() 
+    main_class = ReportParsingMain() 
     main_class.main()

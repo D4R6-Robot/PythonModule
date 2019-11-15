@@ -32,7 +32,7 @@ Cuckoo-report Json Parsing Module
 
 """
 
-class jsonParsing():
+class ReportParsing():
     """Cuckoo 분석 후에 나오는 report.json 을 필요한 부분 추출 하는 클래스.
         
     :param str path: 파싱 파일의 위치.
