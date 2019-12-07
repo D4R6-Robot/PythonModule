@@ -1,0 +1,4163 @@
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000074]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000074]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000074]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [kernel32]
+module_name    : [kernel32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [kernel32]
+function_name  : [HeapSetInformation]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [kernel32]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [kernel32]
+module_name    : [kernel32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [kernel32]
+function_name  : [SortGetHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [kernel32]
+function_name  : [SortCloseHandle]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000100]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000090]
+
+category       : [system]
+api            : [GetSystemInfo]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [SXS]
+module_name    : [SXS.DLL]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SXS]
+function_name  : [SxsOleAut32MapConfiguredClsidToReferenceClsid]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000010c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000110]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [dwmapi]
+module_name    : [dwmapi.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [dwmapi]
+function_name  : [DwmIsCompositionEnabled]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000000fc]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000114]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000118]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000011c]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ole32]
+module_name    : [ole32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoCreateInstance]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [advapi32]
+module_name    : [C:\Windows\system32\advapi32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [SaferIdentifyLevel]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [SaferComputeTokenFromLevel]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [SaferCloseLevel]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000138]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [WINTRUST]
+module_name    : [WINTRUST.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [WinVerifyTrust]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [WintrustCertificateTrust]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubAuthenticode]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubInitialize]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubLoadMessage]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubLoadSignature]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubCheckCert]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WINTRUST]
+function_name  : [SoftpubCleanup]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [CRYPTSP]
+module_name    : [CRYPTSP.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTSP]
+function_name  : [CryptAcquireContextA]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [NtQuerySystemInformation]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000158]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000154]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000154]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000158]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [rsaenh]
+module_name    : [C:\Windows\system32\rsaenh.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPAcquireContext]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPReleaseContext]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGenKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDeriveKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDestroyKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetKeyParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetKeyParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPExportKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPImportKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPEncrypt]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDecrypt]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPCreateHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPHashData]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPHashSessionKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDestroyHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSignHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPVerifySignature]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGenRandom]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetUserKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetProvParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetProvParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetHashParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetHashParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDuplicateKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDuplicateHash]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ADVAPI32]
+module_name    : [ADVAPI32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [OpenThreadToken]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [OpenProcessToken]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [GetTokenInformation]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [AllocateAndInitializeSid]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [EqualSid]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [FreeSid]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000158]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [CRYPTBASE]
+module_name    : [CRYPTBASE.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTBASE]
+function_name  : [SystemFunction036]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000150]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000154]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000158]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [MSISIP]
+module_name    : [MSISIP.DLL]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [MSISIP]
+function_name  : [DllCanUnloadNow]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [MSISIP]
+function_name  : [MsiSIPIsMyTypeOfFile]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ole32]
+module_name    : [ole32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoInitialize]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [StgOpenStorage]
+
+category       : [system]
+api            : [GlobalMemoryStatus]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000180]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoUninitialize]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [ole32]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [CRYPT32]
+module_name    : [C:\Windows\system32\CRYPT32.dll]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [wshext]
+module_name    : [C:\Windows\system32\wshext.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [wshext]
+function_name  : [DllCanUnloadNow]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [wshext]
+function_name  : [IsFileSupportedName]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [wshext]
+function_name  : [PutSignedDataMsg]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [wshext]
+function_name  : [GetSignedDataMsg]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTSP]
+function_name  : [CryptReleaseContext]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000013c]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [ADVAPI32]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoGetObjectContext]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [CRYPTSP]
+module_name    : [CRYPTSP.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTSP]
+function_name  : [CryptAcquireContextW]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPAcquireContext]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPReleaseContext]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGenKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDeriveKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDestroyKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetKeyParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetKeyParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPExportKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPImportKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPEncrypt]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDecrypt]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPCreateHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPHashData]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPHashSessionKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDestroyHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSignHash]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPVerifySignature]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGenRandom]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetUserKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetProvParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetProvParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPSetHashParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPGetHashParam]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDuplicateKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [rsaenh]
+function_name  : [CPDuplicateHash]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ac]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTSP]
+function_name  : [CryptGenRandom]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ac]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001b0]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [RPCRT4]
+function_name  : [I_RpcInitFwImports]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [RPCRT4]
+function_name  : [I_RpcInitImports]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [RPCRT4]
+function_name  : [I_RpcVerifierCorruptionExpected]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [RpcRtRemote]
+module_name    : [RpcRtRemote.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [RpcRtRemote]
+function_name  : [I_RpcExtInitializeExtensionPoint]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000174]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c4]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CLSIDFromProgIDEx]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001d4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c8]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoGetClassObject]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WScript.exe]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SXS]
+function_name  : [SxsOleAut32RedirectTypeLibrary]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001dc]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ADVAPI32]
+module_name    : [ADVAPI32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegOpenKeyW]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001e4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001e8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001e8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001e8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ec]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001e8]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegQueryValueW]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ec]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001f0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ee]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [shell32]
+module_name    : [shell32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SHELL32]
+function_name  : [ShellExecuteExW]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ole32]
+module_name    : [ole32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [OleInitialize]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ole32]
+module_name    : [ole32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CreateBindCtx]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoTaskMemAlloc]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ADVAPI32]
+module_name    : [ADVAPI32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegisterTraceGuidsW]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [EventRegister]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [EventUnregister]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [EventEnabled]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [EventWrite]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [PROPSYS]
+module_name    : [PROPSYS.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSCreateMemoryPropertyStore]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSPropertyBag_WriteDWORD]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoGetApartmentType]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoRegisterInitializeSpy]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoTaskMemFree]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [LPK]
+function_name  : [LpkEditControl]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [comctl32]
+module_name    : [comctl32.dll]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [comctl32]
+module_name    : [comctl32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [OLEAUT32]
+module_name    : [OLEAUT32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [OLEAUT32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoTaskMemAlloc]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoGetMalloc]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSPropertyBag_ReadDWORD]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSPropertyBag_ReadGUID]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ADVAPI32]
+module_name    : [ADVAPI32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegEnumKeyW]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000020c]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [ADVAPI32]
+module_name    : [ADVAPI32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [OpenThreadToken]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [StringFromGUID2]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [apphelp]
+module_name    : [apphelp.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [apphelp]
+function_name  : [ApphelpCheckShellObject]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000208]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000210]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000208]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000208]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoCreateInstance]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000024c]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [API-MS-Win-Core-LocalRegistry-L1-1-0]
+module_name    : [API-MS-Win-Core-LocalRegistry-L1-1-0.dll]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [kernel32]
+function_name  : [RegQueryValueExW]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [GetNativeSystemInfo]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000268]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [SETUPAPI]
+module_name    : [SETUPAPI.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SETUPAPI]
+function_name  : [CM_Get_Device_Interface_List_Size_ExW]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SETUPAPI]
+function_name  : [CM_Get_Device_Interface_List_ExW]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000274]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000274]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtDuplicateObject]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [SHELL32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [OLEAUT32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SHELL32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSPropertyBag_ReadStrAlloc]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000027c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000288]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoInitializeEx]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [IsTextUnicode]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoUninitialize]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000028c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000290]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [API-MS-Win-Security-SDDL-L1-1-0]
+module_name    : [API-MS-Win-Security-SDDL-L1-1-0.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [sechost]
+function_name  : [ConvertSidToStringSidW]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [profapi]
+module_name    : [profapi.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [profapi]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000290]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegOpenKeyExW]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegGetValueW]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [RegCloseKey]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoTaskMemRealloc]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [InitPropVariantFromStringAsVector]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PSCoerceToCanonicalValue]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [PROPSYS]
+function_name  : [PropVariantToStringAlloc]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [PropVariantClear]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002a4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002ac]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b0]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002ac]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002ac]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoAllowSetForegroundWindow]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002b4]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [CoCreateInstance]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [Secur32]
+module_name    : [Secur32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [Secur32]
+function_name  : [GetUserNameExW]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [API-MS-WIN-DOWNLEVEL-SHLWAPI-L1-1-0]
+module_name    : [API-MS-WIN-DOWNLEVEL-SHLWAPI-L1-1-0.DLL]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [api-ms-win-downlevel-shlwapi-l1-1-0]
+function_name  : [PathCreateFromUrlW]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [SHELL32]
+module_name    : [SHELL32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [SHELL32]
+function_name  : [SHGetFolderPathW]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [LdrLoadDll]
+basename       : [OLEAUT32]
+module_name    : [OLEAUT32.dll]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [OLEAUT32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [SaferGetPolicyInformation]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000300]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000300]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000300]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000308]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002f8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000308]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000308]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000308]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000308]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000300]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000000]
+
+category       : [system]
+api            : [LdrGetDllHandle]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ntdll]
+function_name  : [RtlDllShutdownInProgress]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ole32]
+function_name  : [OleUninitialize]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [SHELL32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002e4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002e0]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [MSISIP]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [wshext]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000180]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [CRYPT32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000000b0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001b0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ac]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [WScript.exe]
+function_name  : []
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [SetErrorMode]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001a0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000180]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000180]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000017c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000180]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [SHELL32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001ec]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001f0]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000104]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000008c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000090]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c0]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [ole32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001c4]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001cc]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002e8]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000002ec]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000278]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000258]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000025c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000264]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000260]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000254]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000250]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000204]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000200]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001f8]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [PROPSYS]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [ADVAPI32]
+function_name  : [UnregisterTraceGuids]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001f4]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [comctl32]
+function_name  : []
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000274]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000194]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000188]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000018c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000190]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000198]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000001dc]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000284]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000128]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000124]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000011c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000120]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x000000000000007c]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000078]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000028]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000040]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000178]
+
+category       : [system]
+api            : [LdrGetProcedureAddress]
+module         : [CRYPTSP]
+function_name  : [CryptReleaseContext]
+
+category       : [system]
+api            : [LdrUnloadDll]
+library        : [IMM32]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000178]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x0000000000000014]
+
+category       : [system]
+api            : [NtClose]
+handle         : [0x00000000000000a0]
+

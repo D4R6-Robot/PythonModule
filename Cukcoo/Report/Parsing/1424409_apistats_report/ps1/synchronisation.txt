@@ -1,0 +1,5028 @@
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
+category       : [synchronisation]
+api            : [NtDelayExecution]
+flag           : [{}]
+
