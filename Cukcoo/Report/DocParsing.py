@@ -33,10 +33,9 @@ Cuckoo-report Document Parsing Module
 """
 
 class DocParsing():
-    """Cuckoo 분석 후에 나오는 report.json 을 필요한 부분 추출 하는 클래스.
+    """Cuckoo 분석 후에 나오는 report.json 을 Document 추출 하는 클래스.
         
     :param str path: 파싱 파일의 위치.
-    :param str save_path: 추출 내용 저장 파일 이름.
     """
 
     def __init__(self, path):
