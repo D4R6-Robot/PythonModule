@@ -15,7 +15,7 @@ Cuckoo-report Document Parsing Module
     * ProcessTree()
     * SummaryFile()
     * OfficeMacros()
-    * category_ole()
+    * HttpMalCheck()
     * category_synchronisation()
 
 관련 작업자
@@ -28,7 +28,7 @@ Cuckoo-report Document Parsing Module
 --------
 
 다음과 같은 작업 사항이 있었습니다:
-    * [2019/11/13] - 초기 개발
+    * [2019/12/09] - 초기 개발
 
 """
 
@@ -51,7 +51,12 @@ class DocParsing():
         self.fileList = [0, 0, 0, 0, 0, 0]
     
     def ProcessTree(self, json_data):
+        """report.json behavior 의 generic 필요한 부분 추출
+           중요한 파일에 대한 가중치를 부여하는 값 추출
 
+        :param dict json_data: report process 객체
+        :return: 중요한 파일의 가중치.
+        """
         generic = json_data['behavior']['generic']
         
         for i in generic:
@@ -63,6 +68,11 @@ class DocParsing():
                 self.processTree = self.processTree + 3
 
     def SummaryFile(self, json_data):
+        """report.json office 의 generic 필요한 부분 추출
+        
+        :param dict json_data: report process 객체
+        :return: file 카운트.
+        """
 
         generic = json_data['behavior']['generic']
 
@@ -77,16 +87,31 @@ class DocParsing():
                     self.msformsCount = self.msformsCount + 1
 
     def OfficeMacros(self, json_data):
+        """report.json office 의 macro 필요한 부분 추출
+        
+        :param dict json_data: report process 객체
+        :return: macro 추출한 값을 리턴.
+        """
         self.macrosCount = len(json_data['static']['office']['macros'])
 
     def HttpMalCheck(self, json_data):
+        """report.json network 의 필요한 부분 추출
+        
+        :param dict json_data: report process 객체
+        :return: network 추출한 값을 배열에 삽입.
+        """
         http = json_data['network']['http']
         
         for i in http:
             if i.get('user-agent') == None or 'microsoft' not in i['user-agent'].lower():
                 self.httpCount = self.httpCount + 1
 
-    def apiStats(self, json_data):
+    def ApiStats(self, json_data):
+        """report.json apistats 의 Nt 객체에서 필요한 부분 추출
+        
+        :param dict json_data: report process 객체
+        :return: api count 추출한 값을 배열에 삽입.
+        """
         apistats = json_data['behavior']['apistats']
 
         for i in apistats:
@@ -105,7 +130,12 @@ class DocParsing():
             if apistats[i].get('NtCreateFile') != None:
                 self.ntList[6] = self.ntList[6] + apistats[i]['NtCreateFile']
 
-    def fileStats(self, json_data):
+    def FileStats(self, json_data):
+        """report.json summary 의 file 객체에서 필요한 부분 추출
+        
+        :param dict json_data: report process 객체
+        :return: dict 추출한 값을 배열에 삽입.
+        """
         behavior = json_data['behavior']['summary']
 
         if behavior.get('file_created') != None:
@@ -122,7 +152,10 @@ class DocParsing():
             self.fileList[5] = len(behavior['file_failed'])
 
     def DocPrint(self):
-        
+        """Parsing 된 데이터 출력
+
+        :return: 없음
+        """
         print("processTree : ", self.processTree)
         print("xslCount : ", self.xslCount)
         print("jsCount : ", self.jsCount)
@@ -135,8 +168,9 @@ class DocParsing():
 
     def parsing(self):
         """ report.json 의 원하는 부분을 추출 하는 로직
+            이것을 여기에 넣어야 하는지 고민 하는 중 - d4r6
         
-        :param str category: 추출 category 의 키워드
+        :return: 없음
         """
         cuckoo_string = ""
         with open(self.path) as json_file: 
@@ -146,6 +180,6 @@ class DocParsing():
             self.SummaryFile(json_data)
             self.OfficeMacros(json_data)
             self.HttpMalCheck(json_data)
-            self.apiStats(json_data)
-            self.fileStats(json_data)
+            self.ApiStats(json_data)
+            self.FileStats(json_data)
 
